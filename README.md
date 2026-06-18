@@ -9,7 +9,12 @@
 
 ## 🔹 My Projects
 - [🌐 Social Links](https://awaisamjad05.github.io/Social-Links/) – Responsive social media links page  
-- [🍲 Recipe Page](https://awaisamjad05.github.io/Recipe-page/) – Simple recipe page using HTML & CSS  
+- [🍲 Recipe Page](https://awaisamjad05.github.io/Recipe-page/) – Simple recipe page using HTML & CSS
+- [Weather-App](https://github.com/awaisamjad05/Weather-App) - Real-time weather updates
+* [TO-DO-App](https://github.com/awaisamjad05/TO-DO-App) - Premium To-Do list
+* [Age-Calculator](https://github.com/awaisamjad05/Age-Calculator) - Simple age calculation tool
+* [Student-Study-Hub](https://github.com/awaisamjad05/Student-Study-Hub) - Study management hub
+* 
 
 ---
 
